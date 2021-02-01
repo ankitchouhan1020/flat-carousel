@@ -1,5 +1,5 @@
 {
-  "name": "flat-carousel",
+  "name": "fork-flat-carousel",
   "version": "0.0.1",
   "description": "tiny react carousel component",
   "main": "build/index.js",
